@@ -42,6 +42,8 @@ assets/
 ┣ fonts/ → Menyimpan font custom (Scheherazade-Regular.ttf untuk teks Arab).
 ┗ icon/ → Menyimpan ikon (.png/.svg) yang digunakan dalam aplikasi.
 
+---
+
 ## ⚙️ Teknologi & Dependensi
 Aplikasi ini dikembangkan menggunakan **Flutter SDK** dengan beberapa package berikut:
 ```yaml
@@ -59,6 +61,8 @@ dependencies:
 - audioplayers → Pemutar suara atau audio
 - flutter_compass → Menentukan arah kiblat
 - http → Persiapan integrasi API
+
+---
 
 🧭 Navigasi Aplikasi
 Navigasi antarhalaman dilakukan menggunakan Navigator.push().
@@ -86,11 +90,15 @@ Berikut daftar halaman utama beserta fungsinya:
     File: jadwalsholat/jadwal_sholat_page.dart
     Fungsi: Menampilkan waktu sholat sesuai hari.
 
+---
+
 🖋️ Desain & Font
 Menggunakan font Scheherazade-Regular.ttf untuk tampilan teks Arab.
 Ikon disimpan dalam folder assets/icon/.
 Tema warna dominan: Hijau dan Putih (memberikan kesan islami, bersih, dan nyaman dipandang).
 Layout menggunakan kombinasi widget Container, Column, Row, ListView, dan Card untuk menjaga responsivitas dan keteraturan tampilan.
+
+---
 
 📸 Screenshot Implementasi Aplikasi
 Berikut adalah tampilan dari beberapa halaman pada aplikasi beserta deskripsinya:
