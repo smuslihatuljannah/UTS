@@ -105,19 +105,19 @@ Berikut adalah tampilan dari beberapa halaman pada aplikasi beserta deskripsinya
 🧑‍💻 Gambar 1 — Halaman Login
 Digunakan sebagai gerbang awal aplikasi untuk proses masuk sebelum ke halaman utama.
 Menampilkan form input sederhana dan tombol untuk melanjutkan ke Home.
-<img src="https://github.com/smuslihatuljannah/UTS/blob/main/assets/screenshot/login.png?raw=true" width="300">
+<img src="https://github.com/smuslihatuljannah/UTS/blob/main/assets/screenshot/login.png" width="300">
 
 🏠 Gambar 2 — Halaman Home (Beranda)
 Menampilkan fitur-fitur utama seperti Doa Harian, Jadwal Sholat, Dzikir, Arah Kiblat, dan lainnya.
 Terdapat pencarian fitur, kartu motivasi, dan UI responsif dengan ListView & GridView.
-<img src="https://github.com/smuslihatuljannah/UTS/blob/main/assets/screenshot/beranda.png?raw=true" width="300">
+<img src="https://github.com/smuslihatuljannah/UTS/blob/main/assets/screenshot/beranda.png" width="300">
 
 ⚙️ Gambar 3 — Halaman Setting
 Fungsi untuk mengganti Bahasa (Indonesia/English) dan Dark Mode.
 State UI dikelola memakai Provider, sehingga perubahan langsung diterapkan.
-<img src="https://github.com/smuslihatuljannah/UTS/blob/main/assets/screenshot/setting.png?raw=true" width="300">
+<img src="https://github.com/smuslihatuljannah/UTS/blob/main/assets/screenshot/setting.png" width="300">
 
 📿 Gambar 4 — Halaman Niat Sholat
 Berisi daftar niat sholat yang ditampilkan dengan format Arab, Latin, dan Terjemahan.
-<img src="https://github.com/smuslihatuljannah/UTS/blob/main/assets/screenshot/niatsholatt.png?raw=true" width="300">
+<img src="https://github.com/smuslihatuljannah/UTS/blob/main/assets/screenshot/niatsholatt.png" width="300">
 
