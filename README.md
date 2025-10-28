@@ -105,7 +105,7 @@ Berikut adalah tampilan dari beberapa halaman pada aplikasi beserta deskripsinya
 🧑‍💻 Gambar 1 — Halaman Login
 Digunakan sebagai gerbang awal aplikasi untuk proses masuk sebelum ke halaman utama.
 Menampilkan form input sederhana dan tombol untuk melanjutkan ke Home.
-![alt text](https://github.com/smuslihatuljannah/UTS/blob/main/assets/screenshot/login.png?raw=true)
+![Image Alt](https://github.com/smuslihatuljannah/UTS/blob/main/assets/screenshot/login.png)
 
 🏠 Gambar 2 — Halaman Home (Beranda)
 Menampilkan fitur-fitur utama seperti Doa Harian, Jadwal Sholat, Dzikir, Arah Kiblat, dan lainnya.
